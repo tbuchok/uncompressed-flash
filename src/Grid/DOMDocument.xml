@@ -5,7 +5,27 @@
                     <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#CC0000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#666666"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!5399 1890[5399 2424 5021 2802!5021 2802[4643 3180 4109 3180!4109 3180[3575 3180 3197 2802!3197 2802[2819 2424 2819 1890!2819 1890[2819 1356 3197 978!3197 978[3575 600 4109 600!4109 600[4643 600 5021 978!5021 978[5399 1356 5399 1890"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -14,6 +34,7 @@
      </timelines>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="1224" publishTime="1375469365"/>
           <PublishItem publishSize="1088" publishTime="1375467556"/>
           <PublishItem publishSize="1086" publishTime="1375467536"/>
           <PublishItem publishSize="1090" publishTime="1375467425"/>
