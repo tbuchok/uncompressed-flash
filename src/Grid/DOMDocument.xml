@@ -1,0 +1,27 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="300" height="250" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="31.7033311465608" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="1088" publishTime="1375467556"/>
+          <PublishItem publishSize="1086" publishTime="1375467536"/>
+          <PublishItem publishSize="1090" publishTime="1375467425"/>
+          <PublishItem publishSize="1090" publishTime="1375467394"/>
+          <PublishItem publishSize="1090" publishTime="1375467364"/>
+          <PublishItem publishSize="1072" publishTime="1375467354"/>
+          <PublishItem publishSize="775" publishTime="1375467264"/>
+          <PublishItem publishSize="532" publishTime="1375467258"/>
+          <PublishItem publishSize="762" publishTime="1375467204"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,44 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="300" height="250" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="31.7033311465608" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0033CC"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!6000 0|6000 5000!6000 5000|0 5000!0 5000|0 0!0 0|6000 0"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText fontRenderingMode="standard" left="-50.65" width="245.3" height="91" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="78" ty="79.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ALL YOUR &#xD;BASE CREATIVE&#xD;ARE BELONG TO US</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="ArialMT" fillColor="#FFFF00"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="2407" publishTime="1375467077"/>
+          <PublishItem publishSize="2407" publishTime="1375467049"/>
+     </publishHistory>
+</DOMDocument>
